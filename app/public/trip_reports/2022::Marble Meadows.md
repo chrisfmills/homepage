@@ -13,7 +13,7 @@
 ## Day 2 (base camp to hut)
 - alarm for 5am
 - set out hiking at 6:30am
-- at 1000m elevation we switched to skis
+- at 850m elevation we switched to skis
 - skied to hut, and then dug it out
 
 ![hike in](../photos/marble_meadows/hike_in.jpg)
